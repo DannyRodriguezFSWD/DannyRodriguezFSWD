@@ -1,17 +1,25 @@
 # Hi, I am Danny A. Rodriguez
 
 ## About me
-My experience has allowed me to work with startups and develop technological solutions (web, apps, infrastructure...). I have been constantly updating myself on the latest trends and emerging technologies, which allows me to prepare myself for the challenges that may arise in a technological way.
+I am a Senior Web & Blockchain Developer with over [X years] of experience in building scalable and efficient web applications and decentralized solutions. My passion lies in leveraging cutting-edge technologies to solve complex problems and deliver value to users.
 
-I'm an innovation enthusiast and I'm always looking for new opportunities to apply my skills and knowledge to exciting and challenging projects.
+- 🌐 Proficient in JavaScript, TypeScript, React, Node.js, and Solidity
+- 🔗 Experienced in blockchain technologies including Ethereum, Hyperledger, and smart contract development
+- 🛠️ Strong background in full-stack development with a focus on performance and security
+- 💡 Advocate for open-source software and collaboration
 
 
-## Full Stack Web Development Skills
-- **Front End** • <img width="15" src="https://www.cdnlogo.com/logos/h/84/html.svg" alt="Html" /> <img width="15" src="https://www.cdnlogo.com/logos/c/18/css.svg" alt="CSS" /> <img width="15" src="https://www.cdnlogo.com/logos/s/90/sass.svg" alt="Sass"> <img width="15" src="https://www.cdnlogo.com/logos/t/58/tailwind-css.svg" alt="Tailwind"> <img width="15" src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" alt="Bootstrap"> <img width="15" src="https://www.cdnlogo.com/logos/j/69/javascript.svg" alt="Js" /> <img width="15" src="https://www.cdnlogo.com/logos/a/51/angular.svg" alt="Angular" /> <img width="15" src="https://www.cdnlogo.com/logos/r/63/react.svg" alt="React" />
-- **Back End** • <img width="15" src="https://www.cdnlogo.com/logos/n/80/next-js.svg" alt="Next JS" /> <img width="15" src="https://www.cdnlogo.com/logos/n/94/nodejs-icon.svg" alt="Nodejs" /> <img width="20" src="https://www.cdnlogo.com/logos/p/71/php.svg" alt="Php" /> <img width="15" src="https://static.cdnlogo.com/logos/p/3/python.svg"> <img width="15" src="https://www.cdnlogo.com/logos/m/78/mysql.svg"> <img width="15" src="https://www.cdnlogo.com/logos/p/93/postgresql.svg"> 
-- **Software** • <img width="15" src="https://www.cdnlogo.com/logos/c/70/csharp.svg"> <img width="15" src="https://static.cdnlogo.com/logos/c/1/c-plus-plus.svg"> <img width="15" src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg"> <img width="15" src="https://www.cdnlogo.com/logos/d/6/dot-net-core.svg"> <img width="15" src="https://www.cdnlogo.com/logos/b/67/blazor.svg">
-- **Blockchain** • <img width="15" src="https://static.cdnlogo.com/logos/b/46/bitcoin.svg"><img width="15" src="https://static.cdnlogo.com/logos/s/73/solidity.svg">
-- **DevOps**  • <img width="15" src="https://www.cdnlogo.com/logos/a/19/aws.svg"> <img width="15" src="https://www.cdnlogo.com/logos/a/12/azure.svg">
+## Skills
+- **Web Development:**
+  - Front End • <img width="30" src="https://www.cdnlogo.com/logos/h/84/html.svg" alt="Html" /> <img width="30" src="https://www.cdnlogo.com/logos/c/18/css.svg" alt="CSS" /> <img width="30" src="https://www.cdnlogo.com/logos/s/90/sass.svg" alt="Sass"> <img width="30" src="https://www.cdnlogo.com/logos/t/58/tailwind-css.svg" alt="Tailwind"> <img width="30" src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" alt="Bootstrap"> <img width="30" src="https://www.cdnlogo.com/logos/j/69/javascript.svg" alt="Js" /> <img width="30" src="https://www.cdnlogo.com/logos/a/51/angular.svg" alt="Angular" /> <img width="30" src="https://www.cdnlogo.com/logos/r/63/react.svg" alt="React" />
+  - Back End • <img width="30" src="https://www.cdnlogo.com/logos/n/80/next-js.svg" alt="Next JS" /> <img width="30" src="https://www.cdnlogo.com/logos/n/94/nodejs-icon.svg" alt="Nodejs" /> <img width="30" src="https://www.cdnlogo.com/logos/p/71/php.svg" alt="Php" />  <img width="30" src="https://static.cdnlogo.com/logos/d/3/django.svg">
+  - Database • <img width="30" src="https://www.cdnlogo.com/logos/m/78/mysql.svg"> <img width="30" src="https://www.cdnlogo.com/logos/p/93/postgresql.svg"> <img width="30" src="https://static.cdnlogo.com/logos/m/30/mongodb-icon.svg">
+- **Blockchain Development:**
+  - Smart Contracts • <img width="30" src="https://static.cdnlogo.com/logos/s/73/solidity.svg">
+  - Protocols • <img width="30" src="https://static.cdnlogo.com/logos/b/46/bitcoin.svg"> <img img width="60" src="https://static.cdnlogo.com/logos/e/95/ethereum.svg">
+  - Tools • <img width="30" src="https://static.cdnlogo.com/logos/r/55/remix.svg"> <img width="30" src="https://static.cdnlogo.com/logos/m/79/metamask.svg">
+- **Software Development:** • <img width="30" src="https://www.cdnlogo.com/logos/c/70/csharp.svg"> <img width="30" src="https://static.cdnlogo.com/logos/c/1/c-plus-plus.svg"> <img width="30" src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg"> <img width="30" src="https://www.cdnlogo.com/logos/d/6/dot-net-core.svg"> <img width="30" src="https://www.cdnlogo.com/logos/b/67/blazor.svg"> <img width="30" src="https://static.cdnlogo.com/logos/p/3/python.svg">
+- **DevOps**  • <img width="30" src="https://www.cdnlogo.com/logos/a/19/aws.svg"> <img width="30" src="https://www.cdnlogo.com/logos/a/12/azure.svg">
 <!-- <a href="https://cdnlogo.com/logo/azure_30734.html"><img src="https://www.cdnlogo.com/logos/a/46/azure.svg"></a> -->
 
 
