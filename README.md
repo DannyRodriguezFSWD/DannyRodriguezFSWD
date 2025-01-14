@@ -1,7 +1,7 @@
 # Hi, I am Danny A. Rodriguez
 
 ## About me
-I am a Senior Web & Blockchain Developer with over [X years] of experience in building scalable and efficient web applications and decentralized solutions. My passion lies in leveraging cutting-edge technologies to solve complex problems and deliver value to users.
+I am a Senior Web & Blockchain Developer with over 7 years of experience in building scalable and efficient web applications and decentralized solutions. My passion lies in leveraging cutting-edge technologies to solve complex problems and deliver value to users.
 
 - 🌐 Proficient in JavaScript, TypeScript, React, Node.js, and Solidity
 - 🔗 Experienced in blockchain technologies including Ethereum, Hyperledger, and smart contract development
