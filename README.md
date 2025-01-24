@@ -27,7 +27,11 @@ I am a Senior Web & Blockchain Developer with over 7 years of experience in buil
 IT Consulting • Application Development • Cloud Application Development • Database Development • Information Management • Information Security • Web Design • Web Development
 
 ### Contact me   <a href="mailto:dandemslay@gmail.com"><img width="15" src="https://www.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/danny-rodriguez-0b9aaa54/"><img width="15" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn" /></a>
-Telegram username @cryptoraise97
+
+
+#Telegram username @cryptoraise97
+
+<img src="3554404.jpg"/>
 <!--
 **DannyRodriguezFSWD/DannyRodriguezFSWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
