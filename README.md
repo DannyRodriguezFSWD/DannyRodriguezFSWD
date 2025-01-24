@@ -36,10 +36,19 @@ IT Consulting • Application Development • Cloud Application Development • 
 
 <img src="3595186.jpg"/>
 #Restaurant Site
+<img src="bitcoin-financial-technology-with-businesswoman-using-laptop-background.jpg"/>
 
 <img src="llllara-vue.jpg"/>
 
-<img src="3595186.jpg"/>
+<img src="minimalistic-still-life-assortment-with-cryptocurrency.jpg"/>
+
+<img src="modern-equipped-computer-lab.jpg"/>
+
+<img src="trading-stock-stock-market-business-graph-trading-investment-broker-stock-exchange-market.jpg"/>
+
+<img src="trading-stock-stock-market-trading-investmnet-boker-stock-exchange-market.jpg"/>
+
+<img src="llllara-vue.jpg"/>
 #Restaurant Site
 <!--
 **DannyRodriguezFSWD/DannyRodriguezFSWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
