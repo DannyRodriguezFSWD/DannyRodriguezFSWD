@@ -46,9 +46,11 @@ IT Consulting • Application Development • Cloud Application Development • 
 
 <img src="trading-stock-stock-market-business-graph-trading-investment-broker-stock-exchange-market.jpg"/>
 
-<img src="trading-stock-stock-market-trading-investmnet-boker-stock-exchange-market.jpg"/>
+<img src="8788069.jpg"/>
 
-<img src="llllara-vue.jpg"/>
+<img src="trading-stock-stock-market-trading-investment-boker-stock-exchange-market.jpg"/>
+
+<img src="8964804.jpg"/>
 #Restaurant Site
 <!--
 **DannyRodriguezFSWD/DannyRodriguezFSWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
