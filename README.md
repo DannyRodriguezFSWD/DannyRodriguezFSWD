@@ -48,7 +48,7 @@ IT Consulting • Application Development • Cloud Application Development • 
 
 <img src="8788069.jpg"/>
 
-<img src="trading-stock-stock-market-trading-investment-boker-stock-exchange-market.jpg"/>
+<img src="trading-stock-stock-market-trading-investment-broker-stock-exchange-market.jpg"/>
 
 <img src="8964804.jpg"/>
 #Restaurant Site
