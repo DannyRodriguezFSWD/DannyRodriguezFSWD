@@ -29,29 +29,47 @@ IT Consulting • Application Development • Cloud Application Development • 
 ### Contact me   <a href="mailto:dandemslay@gmail.com"><img width="15" src="https://www.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/danny-rodriguez-0b9aaa54/"><img width="15" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn" /></a>
 
 
-#Telegram username @cryptoraise97
+Telegram username @cryptoraise97
 
 <img src="neon-hologram-tiger.jpg"/>
-#Crypto trading Site
+
+My crypto
 
 <img src="3595186.jpg"/>
-#Restaurant Site
+
+Restaurant Site
+
 <img src="bitcoin-financial-technology-with-businesswoman-using-laptop-background.jpg"/>
+
+My bitcoin
 
 <img src="llllara-vue.jpg"/>
 
+Laravel + Vue
+
 <img src="minimalistic-still-life-assortment-with-cryptocurrency.jpg"/>
+
+Crypto trading bot
 
 <img src="modern-equipped-computer-lab.jpg"/>
 
+Vue python admin
+
 <img src="trading-stock-stock-market-business-graph-trading-investment-broker-stock-exchange-market.jpg"/>
+
+Py cook
 
 <img src="8788069.jpg"/>
 
+Bet mern
+
 <img src="trading-stock-stock-market-trading-investment-broker-stock-exchange-market.jpg"/>
 
+NFT marketing
+
 <img src="8964804.jpg"/>
-#Restaurant Site
+
+Social Site
 <!--
 **DannyRodriguezFSWD/DannyRodriguezFSWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
