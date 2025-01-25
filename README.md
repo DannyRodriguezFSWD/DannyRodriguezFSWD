@@ -63,7 +63,7 @@ Py cook
 
 Bet mern
 
-<img src="trading-stock-stock-market-trading-investment-broker-stock-exchange-market.jpg"/>
+<img src="10156838.jpg"/>
 
 NFT marketing
 
