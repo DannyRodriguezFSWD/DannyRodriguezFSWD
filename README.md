@@ -41,7 +41,7 @@ Restaurant Site
 
 <img src="bitcoin-financial-technology-with-businesswoman-using-laptop-background.jpg"/>
 
-My bitcoin
+My bitcoin project
 
 <img src="llllara-vue.jpg"/>
 
