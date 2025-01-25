@@ -55,7 +55,7 @@ Crypto trading bot
 
 Vue python admin
 
-<img src="trading-stock-stock-market-business-graph-trading-investment-broker-stock-exchange-market.jpg"/>
+<img src="6041661.jpg"/>
 
 Py cook
 
