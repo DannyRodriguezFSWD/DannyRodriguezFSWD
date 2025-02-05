@@ -29,7 +29,7 @@ IT Consulting • Application Development • Cloud Application Development • 
 ### Contact me   <a href="mailto:dandemslay@gmail.com"><img width="15" src="https://www.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/danny-rodriguez-0b9aaa54/"><img width="15" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn" /></a>
 
 
-Telegram username @cryptoraise97
+Telegram username @bstar2391
 
 <img src="neon-hologram-tiger.jpg"/>
 
